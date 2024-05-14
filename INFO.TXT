@@ -1,0 +1,45 @@
+====FOR ICONS
+
+https://remixicon.com/
+
+
+========YouTUBE VEDIO LINK===========
+PART-1
+https://www.youtube.com/watch?v=4GMljXR1h78&t=
+
+PART-1
+https://www.youtube.com/watch?v=mB8ajdvRnC0&t=417s
+
+
+START 
+2nd part vedio
+1:34 doneeeeeee
+
+================STEPS================
+
+1- App.js    (MAin File)
+2- ROUTERS-(Routers.js)      (FOR ROUTING)
+3- HEADER.js / HEADER.css   
+4- Home.js / STYLES-(home.css)
+5- SERVICES-(services.js & css)    import serviceData from '../assets/data/serviceData'
+6- UI -(ProductCard.jsx) /STYLES-(ProductCard.css)
+7- UI -(ProductList.jsx)  ---HOME---
+8- UI -(Clock.jsx)   ---HOME---
+9-  Home.jsx  ---- new__arrivals (MOBILE PRODUCTS)
+10- Home.jsx ---- popular__category ======  (WATCHES PRODUCTS)
+11 - Footer -- footer.jsx   footer.css
+
+
+============2nd Lecture==============
+1- Redux - (Store.js)
+2- Redux --- Slices ---(cartSlic.js)  it will add item in cart functionality
+3 - Header.js
+4- UI ---(CommoSection.jsx)
+5- Shop.Jsx    (search functionality & search item by name)
+6- ProductDetails.jsx 
+7- Cart.jsx
+
+PROBLEM In CARTSLICE TRIPLE EQUAL
+
+
+
